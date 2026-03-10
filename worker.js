@@ -1,8 +1,1 @@
-// push 03/09/2026 09:06:10
-export default {
-  async fetch(){
-    return new Response("ui-library", {
-      headers: {"content-type":"text/plain"}
-    })
-  }
-}
+Ly8gcHVzaCAwMy8wOS8yMDI2IDA5OjQyOjI2DQpleHBvcnQgZGVmYXVsdCB7DQogIGFzeW5jIGZldGNoKCl7DQogICAgcmV0dXJuIG5ldyBSZXNwb25zZSgidWktbGlicmFyeSIsIHsNCiAgICAgIGhlYWRlcnM6IHsiY29udGVudC10eXBlIjoidGV4dC9wbGFpbiJ9DQogICAgfSkNCiAgfQ0KfQ0K
